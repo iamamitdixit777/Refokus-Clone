@@ -3,7 +3,7 @@ import Button from "./Button";
 
 function Navbar() {
   return (
-    <div className="max-w-screen-xl mx-auto py-6 flex items-center justify-between border-b-[1px] border-zinc-700">
+    <div className="max-w-screen-lg mx-auto py-6 flex items-center justify-between border-b-[1px] border-zinc-700">
       <div className="nleft flex items-center">
         <div className="links flex gap-14 ml-2">
           <img
@@ -23,7 +23,8 @@ function Navbar() {
                   <span
                     style={{ boxShadow: "0 0 0.55em #00FF19" }}
                     className="inline-block w-[5px] h-[5px] rounded-full bg-green-600"
-                  ></span>
+                  >
+                  </span>
                 )}
                 {elem}
               </a>
