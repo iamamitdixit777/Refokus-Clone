@@ -50,6 +50,10 @@ Contributions are welcome! If you have ideas on how to improve the Refokus websi
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+deployed link is here.
+https://refokus-clone-ipj2hnbq1-amitdixits-projects.vercel.app
+
+
 ## Acknowledgements
 
 - [Locomotive Scroll](https://locomotivemtl.github.io/locomotive-scroll/) - For providing smooth scrolling effects.
